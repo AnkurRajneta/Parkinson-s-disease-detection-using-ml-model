@@ -1,0 +1,1 @@
+In this basically we are using an machine learning model to predict whether the person is suffering from parkinson's disease or not.Here we are having dataset which includes the details of different person and their symptoms and we are using that dataset to train our model and then we are using that model to predict whether the person is suffering from parkinson's disease or not.
